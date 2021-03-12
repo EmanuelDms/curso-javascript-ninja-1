@@ -85,4 +85,4 @@ console.log(calcExpression1()); // Nenhum argumento
 console.log(calcExpression1(34)); // Um argumento
 console.log(calcExpression1(1, 5)); // Dois argumentos
 console.log(calcExpression1(1, 2, 3)); // Três argumentos
-console.log(calcExpression1('3')); // Nenhuma das opções (?)
+console.log(calcExpression1()); // Nenhuma das opções (?)
